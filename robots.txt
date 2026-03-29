@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /thank-you.html
+
+Sitemap: https://www.monumentcowebdesigner.com/sitemap.xml
