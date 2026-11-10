@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /thank-you.html
 
-Sitemap: https://www.monumentcowebdesigner.com/sitemap.xml
+Sitemap: https://monumentcowebdesigner.com/sitemap.xml
